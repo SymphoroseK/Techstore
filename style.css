@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+    
+.imo{
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    color:black;
+    width: 160px;
+    height:100px;
+    margin-top: -95px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+float: right;
+margin-right: 30px;
+}
+ul{
+   display: flex;
+   margin-left: 950px;
+   margin-top: -45px;
+   list-style: none;
+   display: flex;
+   gap: 20px;
+   cursor: pointer;
+   color: white;
+} e
+header h1{c                                                              
+    margin-top: 12px;
+    color: white;
+}
+header{
+background-color:rgb(36, 1, 70);
+padding: 25px;
+}
+.Titre h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color:rgb(36, 1, 70);
+}
+.ensemble p{
+    color: white;
+    font-size: 30px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(186, 131, 238);
+    width: 200px;
+    font-size: 20px;
+     margin-top: -30px;
+}
+button:focus{
+   color: aliceblue;
+
+   }
+   .hero-content{
+   display: flex;
+    align-items: center;
+    justify-content: space-around;
+   }
+   .image1{
+    width: 100px;
+   }
+   .image2{
+    width: 100px;
+   }
+   .image3{
+    width: 100px;
+   }
+   .Produits1{
+    border: 1px solid;
+    padding-left: 70px;
+    padding-right: 20px;
+     padding-bottom: 20px;
+    padding-top: 10px;
+     border-radius: 10px;
+     box-shadow: 1px 1px 9px blueviolet;
+   }
+   .Produits2{
+border: 1px solid;
+    padding-left: 70px;
+    padding-right: 100px;
+    padding-top: 8px;
+     padding-bottom: 20px;
+      border-radius: 10px;
+       border-radius: 10px;
+        box-shadow: 1px 1px 9px blueviolet;
+   }
+   .Produits3{
+border: 1px solid;
+    padding-left: 70px;
+    padding-right: 90px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+   border-radius: 10px;
+    box-shadow: 1px 1px 9px blueviolet;
+   }
+   footer p{
+    text-align: center;
+   }
+   footer{
+    background-color:rgb(36, 1, 70);
+    padding: 50px;
+    color: white;
+   
+   }
+   .hero{
+    background-color:rgb(214, 182, 244);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top:50px;
+   }
+   .btn{
+   
+   }

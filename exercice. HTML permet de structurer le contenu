@@ -1,0 +1,15 @@
+1. HTML permet de structurer le contenu
+d'une page web, tandis que CSS permet
+de définir son apparence et sa mise en forme.
+
+2. display: flex permet d'aligner et
+d'organiser facilement les éléments
+d'une page web.
+
+3. margin représente l'espace extérieur
+autour d'un élément, tandis que padding
+représente l'espace intérieur entre le
+contenu et la bordure.
+
+4. La propriété display: flex permet de
+placer plusieurs éléments côte à côte.
